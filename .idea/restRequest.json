@@ -1,0 +1,9 @@
+{
+  "uri": "http://localhost:8080/api/v1/management/students?teacherFirstName\u003dteache\u0026className\u003dclassA",
+  "method": "GET",
+  "body": "{\n     \"firstname\":\"mahdi\",\n     \"lastname\":\"belhaid\",\n     \"email\":\"mahdi@gmail.com\",\n     \"password\":\"belhaid\",\n     \"role\":\"ADMIN\"\n     }",
+  "headers": {
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYWhkaUBnbWFpbC5jb20iLCJpYXQiOjE2ODQwOTQ1ODUsImV4cCI6MTY4NDE4MDk4NX0.VoxJXDKGsfJv-OmDP_hcopMg8lhkvCtHkuY7qLEK80U",
+    "Content-Type": "application/json"
+  }
+}
